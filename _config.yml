@@ -1,0 +1,7 @@
+title: Craig Milliron – Cybersecurity Portfolio
+theme: minima
+sass:
+  style: compressed
+include:
+  - assets/css
+
